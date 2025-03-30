@@ -1,0 +1,17 @@
+[project]
+name = "ax"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colorlog>=6.9.0",
+    "google-genai>=1.8.0",
+    "markdown>=3.7",
+    "pydantic-ai>=0.0.46",
+    "pydantic-ai-slim[duckduckgo]>=0.0.46",
+    "supabase>=2.15.0",
+]
+
+[tool.uv.workspace]
+members = ["backend", "server"]

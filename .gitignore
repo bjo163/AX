@@ -10,3 +10,9 @@ wheels/
 .venv
 ui/node_modules/
 .env
+
+#logs
+logs/
+cache/
+.cache/
+.vscode/

@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 import importlib
 import os
 
@@ -7,15 +7,23 @@ router = APIRouter()
 
 # Definisikan model input sesuai standar OpenAI API
 class CompletionRequest(BaseModel):
-    model: str
-    messages: list[dict]  # Daftar pesan dengan format {"role": "user", "content": "message"}
-    temperature: float = 1.0
-    max_tokens: int = 256
-    top_p: float = 1.0
-    frequency_penalty: float = 0.0
-    presence_penalty: float = 0.0
+    model: str = Field(..., example="gemini")  # Contoh model API yang digunakan
+    messages: list[dict] = Field(..., example=[  # Contoh format pesan
+        {"role": "user", "content": "Tell me a joke."},
+        # {"role": "assistant", "content": "Why don’t skeletons fight each other? They don’t have the guts."}
+    ])
+    temperature: float = Field(1.0, example=0.7)  # Contoh nilai suhu
+    max_tokens: int = Field(256, example=150)  # Contoh nilai max_tokens
+    top_p: float = Field(1.0, example=0.95)  # Contoh nilai top_p
+    frequency_penalty: float = Field(0.0, example=0.0)  # Contoh nilai frequency_penalty
+    presence_penalty: float = Field(0.0, example=0.0)  # Contoh nilai presence_penalty
 
-@router.post("/v1/completions")
+# Definisikan model respons
+class CompletionResponse(BaseModel):
+    model: str
+    choices: list[dict]
+
+@router.post("/v1/completions", response_model=CompletionResponse)
 async def completions(request: CompletionRequest):
     """
     Endpoint untuk menangani permintaan model LLM secara dinamis.

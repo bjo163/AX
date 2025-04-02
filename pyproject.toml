@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiofiles>=24.1.0",
     "colorlog>=6.9.0",
     "dotenv>=0.9.9",
     "fastapi>=0.115.12",
@@ -12,6 +13,7 @@ dependencies = [
     "markdown>=3.7",
     "pydantic-ai>=0.0.46",
     "pydantic-ai-slim[duckduckgo]>=0.0.46",
+    "scalar-fastapi>=1.0.3",
     "supabase>=2.15.0",
     "uvicorn>=0.34.0",
 ]

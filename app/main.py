@@ -10,7 +10,13 @@ import time
 import os
 import importlib
 
-app = FastAPI()
+app = FastAPI(
+    title="AX API",
+    description="API Documentation for AX Project",
+    summary="API Documentation for AX Project",
+    version="1.0.0",
+    debug=True,
+    )
 
 # Initialize Supabase client
 app.add_middleware(

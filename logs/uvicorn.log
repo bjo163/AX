@@ -883,3 +883,1585 @@ asyncio.exceptions.CancelledError
 [2025-03-30 17:46:17,424] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
 [2025-03-30 17:46:17,897] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
 [2025-03-30 17:46:18,012] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:22:06,141] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:22:06,795] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:22:06,851] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 16:22:06,906] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 16:22:06,959] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 16:22:07,012] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 16:22:07,494] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:22:07,620] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:26:19,771] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:26:20,177] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:26:24,252] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:26:24,375] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:27:15,777] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:27:15,907] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:27:23,170] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:27:23,292] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:27:23,347] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 16:27:23,411] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 16:27:23,475] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 16:27:23,527] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 16:27:24,009] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:27:24,131] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:28:05,056] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:28:06,050] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:28:16,512] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:28:16,794] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:28:50,095] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:28:50,256] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:28:59,085] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:28:59,206] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:28:59,255] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 16:28:59,301] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 16:28:59,348] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 16:28:59,396] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 16:28:59,872] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:28:59,980] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:30:21,294] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:30:21,718] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:30:30,361] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:30:30,478] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:30:33,333] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:30:33,617] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:30:36,561] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:30:36,678] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:30:36,730] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 16:30:36,779] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 16:30:36,820] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 16:30:36,868] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 16:30:37,349] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:30:37,477] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:32:45,195] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:32:45,700] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:33:02,691] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:33:02,812] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:34:29,625] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:34:30,075] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:35:17,733] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:35:17,875] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:35:43,877] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:35:43,999] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:35:47,300] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:35:47,421] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:36:27,635] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:36:28,079] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:36:32,599] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:36:32,717] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:36:47,570] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:36:47,687] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:36:57,050] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:36:57,177] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:37:05,044] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:37:05,156] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:37:05,191] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 16:37:05,237] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 16:37:05,279] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 16:37:05,317] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 16:37:05,777] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:37:05,899] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:41:08,658] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:41:09,143] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:46:12,738] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:46:13,166] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:47:00,003] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:47:00,392] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:47:14,657] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:47:14,763] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:49:07,322] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:49:07,745] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:54:44,013] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:54:44,507] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 16:58:16,388] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 16:58:16,883] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:10:13,416] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:10:13,894] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:10:15,303] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:10:15,426] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:10:15,500] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 17:10:15,565] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 17:10:15,611] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 17:10:15,663] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 17:10:16,139] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:10:16,246] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:10:24,278] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:10:24,387] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:10:24,435] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 17:10:24,481] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 17:10:24,530] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 17:10:24,574] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 17:10:25,056] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:10:25,405] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:15:36,988] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:15:37,489] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:31:09,928] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:31:10,805] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 17:31:10,889] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 17:31:10,995] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 17:31:11,077] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 17:31:11,150] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 17:31:11,663] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 17:31:11,799] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:12,923] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,085] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:13,145] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:03:13,197] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:03:13,260] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:03:13,313] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:03:13,794] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,806] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,809] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,811] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,816] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:03:13,919] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:13,943] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:13,954] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:13,959] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:03:13,971] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:34,928] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:35,433] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:35,496] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:07:35,551] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:07:35,610] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:07:35,662] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:07:36,129] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:36,135] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:36,137] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:36,137] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:36,137] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:07:36,515] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:36,527] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:36,730] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:36,739] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:07:36,957] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:46,459] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:47,198] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:47,257] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:28:47,314] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:28:47,376] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:28:47,410] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:28:47,891] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:47,891] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:47,892] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:47,892] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:47,894] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:28:48,011] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:48,016] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:48,017] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:48,019] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:28:48,020] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:24,040] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:24,174] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:24,234] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:29:24,321] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:29:24,379] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:29:24,423] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:29:24,899] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:24,902] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:24,902] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:24,907] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:24,908] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:29:25,011] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:25,024] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:25,025] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:25,025] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:29:25,037] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:53,553] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:53,981] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:54,042] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:30:54,110] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:30:54,176] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:30:54,228] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:30:54,716] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:54,716] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:54,719] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:54,722] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:54,727] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:30:54,831] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:54,838] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:54,839] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:54,846] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:30:55,001] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:55,893] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,028] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:56,086] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:31:56,148] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:31:56,216] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:31:56,265] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:31:56,751] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,751] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,751] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,757] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,759] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:31:56,852] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:56,853] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:56,875] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:56,878] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:31:56,879] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:36,686] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,122] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:37,181] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:34:37,249] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:34:37,325] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:34:37,376] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:34:37,867] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,867] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,867] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,867] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,869] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:34:37,982] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:37,987] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:37,989] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:37,994] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:34:38,242] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:01,183] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:01,311] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:01,367] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:36:01,425] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:36:01,490] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:36:01,530] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:36:02,012] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:02,018] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:02,019] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:02,019] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:02,029] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:36:02,115] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:02,118] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:02,136] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:02,136] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:36:02,151] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:06,558] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:06,976] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:07,028] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:44:07,086] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:44:07,149] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:44:07,198] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:44:07,676] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:07,680] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:07,680] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:07,680] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:07,681] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:44:07,976] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:07,981] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:07,998] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:08,029] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:44:08,051] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:00,766] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,174] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:01,239] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:52:01,288] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:52:01,353] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:52:01,397] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:52:01,866] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,869] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,871] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,871] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,871] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:52:01,988] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:01,991] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:01,996] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:01,999] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:52:01,999] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:55,333] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,072] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:56,133] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 18:59:56,192] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 18:59:56,250] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 18:59:56,292] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 18:59:56,779] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,781] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,782] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,782] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,787] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 18:59:56,883] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:56,896] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:56,899] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:56,905] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 18:59:57,058] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:24,422] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:24,914] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:24,980] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 19:05:25,045] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 19:05:25,124] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 19:05:25,175] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 19:05:25,662] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:25,662] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:25,667] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:25,674] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:25,674] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:05:25,762] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:25,773] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:25,789] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:25,796] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:05:25,797] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:00,147] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:00,607] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:00,678] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 19:09:00,743] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 19:09:00,811] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 19:09:00,867] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 19:09:01,361] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:01,361] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:01,362] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:01,364] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:01,365] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:09:01,477] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:01,478] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:01,480] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:01,481] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:09:01,512] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:33,153] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:33,876] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:33,935] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 19:12:33,983] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 19:12:34,040] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 19:12:34,073] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 19:12:34,545] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:34,547] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:34,547] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:34,557] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:34,557] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:12:34,656] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:34,656] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:34,664] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:34,669] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:12:34,673] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:29,742] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:30,326] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:30,377] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 19:16:30,427] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 19:16:30,478] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 19:16:30,514] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 19:16:31,000] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:31,000] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:31,001] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:31,001] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:31,005] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:16:31,121] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:31,121] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:31,129] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:31,130] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:16:31,138] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:42,111] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:42,614] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:42,667] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 19:49:42,713] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 19:49:42,758] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 19:49:42,792] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 19:49:43,273] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:43,275] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:43,276] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:43,276] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:43,282] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 19:49:43,384] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:43,402] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:43,403] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:43,406] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 19:49:43,412] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:44,025] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:44,534] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:44,585] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:35:44,629] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:35:44,687] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:35:44,744] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:35:45,241] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:45,245] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:45,252] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:45,252] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:45,254] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:35:45,370] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:45,378] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:45,388] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:45,391] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:35:45,394] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:43:03,085] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:43:03,615] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:43:03,678] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:43:03,739] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:43:03,799] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:43:03,837] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:53:50,695] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:53:51,245] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:53:51,317] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:53:51,391] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:53:51,463] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:53:51,516] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:53:52,004] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:53:52,005] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:53:52,006] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:53:52,012] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:53:52,116] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:53:52,121] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:53:52,121] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:53:52,143] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:57:18,472] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:57:19,447] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:57:19,515] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:57:19,575] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:57:19,637] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:57:19,681] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:57:20,153] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:57:20,154] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:57:20,156] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:57:20,157] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:57:20,426] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:57:20,434] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:57:20,460] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:57:20,523] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:02,273] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:02,424] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:02,491] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:58:02,559] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:58:02,639] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:58:02,693] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:58:03,190] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:03,192] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:03,192] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:03,194] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:03,301] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:03,318] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:03,318] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:03,319] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:55,757] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:55,888] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:55,949] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 20:58:56,011] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 20:58:56,075] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 20:58:56,112] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 20:58:56,592] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:56,600] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:56,603] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:56,607] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 20:58:56,721] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:56,725] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:56,728] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 20:58:56,729] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:02:03,365] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:02:03,807] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:02:03,874] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:02:03,935] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:02:03,990] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:02:04,034] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:02:04,509] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:02:04,510] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:02:04,517] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:02:04,520] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:02:04,630] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:02:04,637] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:02:04,641] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:02:04,643] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:06:38,859] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:06:39,621] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:06:39,687] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:06:39,743] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:06:39,801] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:06:39,855] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:06:40,339] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:06:40,349] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:06:40,349] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:06:40,353] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:06:40,449] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:06:40,470] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:06:40,471] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:06:40,623] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:08:16,155] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:08:16,328] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:08:16,394] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:08:16,473] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:08:16,540] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:08:16,587] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:08:17,068] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:08:17,077] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:08:17,078] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:08:17,079] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:08:17,193] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:08:17,198] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:08:17,199] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:08:17,202] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:09:34,641] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:09:35,062] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:09:35,129] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:09:35,178] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:09:35,236] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:09:35,299] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:09:35,782] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:09:35,783] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:09:35,786] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:09:35,793] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:09:35,886] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:09:35,906] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:09:35,908] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:09:35,911] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:16:25,227] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:16:25,745] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:16:25,826] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:16:25,941] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:16:26,040] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:16:26,096] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:16:26,618] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:16:26,622] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:16:26,629] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:16:26,632] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:16:26,737] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:16:26,737] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:16:26,737] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:16:26,744] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:18:35,462] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:18:35,897] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:18:35,952] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:18:36,000] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:18:36,049] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:18:36,087] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:18:36,582] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:18:36,583] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:18:36,591] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:18:36,592] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:18:36,697] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:18:36,698] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:18:36,713] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:18:37,179] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:20:14,168] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:20:14,308] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:20:14,375] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:20:14,423] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:20:14,483] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:20:14,529] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:20:15,015] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:20:15,016] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:20:15,018] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:20:15,021] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:20:15,121] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:20:15,123] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:20:15,143] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:20:15,152] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:23:59,394] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:23:59,890] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:23:59,949] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:24:00,013] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:24:00,082] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:24:00,132] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:24:00,623] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:24:00,627] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:24:00,627] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:24:00,629] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:24:00,742] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:24:00,744] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:24:00,744] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:24:00,757] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:29:39,836] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:29:40,272] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:29:40,330] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:29:40,388] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:29:40,439] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:29:40,488] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:29:40,961] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:29:40,963] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:29:40,968] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:29:40,969] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:29:41,073] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:29:41,090] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:29:41,091] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:29:41,783] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:31:01,984] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:31:02,130] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:31:02,196] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:31:02,266] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:31:02,321] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:31:02,379] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:31:02,879] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:31:02,879] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:31:02,879] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:31:02,881] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:31:03,004] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:31:03,006] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:31:03,008] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:31:03,017] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:32:16,614] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:32:17,020] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:32:17,083] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:32:17,141] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:32:17,203] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:32:17,247] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:32:17,718] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:32:17,735] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:32:17,736] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:32:17,736] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:32:17,836] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:32:17,847] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:32:17,851] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:32:17,887] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:37:42,641] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:37:43,139] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:37:43,191] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:37:43,244] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:37:43,303] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:37:43,341] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:37:43,825] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:37:43,825] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:37:43,826] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:37:43,826] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:37:44,182] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:37:44,215] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:37:44,418] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:37:44,676] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:38:08,487] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:38:08,604] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:38:08,683] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:38:08,730] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:38:08,787] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:38:08,841] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:38:09,341] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:38:09,345] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:38:09,345] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:38:09,345] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:38:09,462] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:38:09,464] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:38:09,466] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:38:09,467] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:41:41,945] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:41:42,378] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:41:42,443] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:41:42,500] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:41:42,566] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:41:42,619] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:41:43,099] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:41:43,103] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:41:43,105] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:41:43,111] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:41:43,215] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:41:43,218] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:41:43,232] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:41:43,395] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:43:40,902] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:43:41,670] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:43:41,732] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:43:41,789] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:43:41,853] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:43:41,906] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:43:42,385] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:43:42,386] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:43:42,387] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:43:42,387] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:43:42,493] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:43:42,507] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:43:42,510] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:43:42,517] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:46:49,710] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:46:50,229] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:46:50,306] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:46:50,369] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:46:50,422] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:46:50,474] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:46:50,957] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:46:50,959] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:46:50,959] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:46:50,961] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:46:51,069] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:46:51,077] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:46:51,078] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:46:51,090] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:48:41,599] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:48:42,143] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:48:42,200] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:48:42,275] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:48:42,343] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:48:42,406] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:48:42,890] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:48:42,891] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:48:42,892] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:48:42,897] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:48:43,009] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:48:43,017] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:48:43,018] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:48:43,019] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:54:42,713] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:54:43,307] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:54:43,367] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 21:54:43,445] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 21:54:43,505] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 21:54:43,550] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 21:54:44,024] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:54:44,024] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:54:44,024] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:54:44,027] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 21:54:44,141] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:54:44,145] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:54:44,151] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 21:54:44,371] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:00:17,709] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:00:18,664] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:00:18,732] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:00:18,791] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:00:18,840] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:00:18,887] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:00:19,366] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:00:19,366] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:00:19,366] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:00:19,367] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:00:19,473] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:00:19,474] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:00:19,532] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:00:19,647] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:07:53,671] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:07:54,119] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:07:54,179] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:07:54,238] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:07:54,296] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:07:54,339] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:07:54,816] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:07:54,817] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:07:54,818] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:07:54,819] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:07:54,918] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:07:54,928] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:07:54,938] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:07:55,099] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:17:15,239] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:17:15,688] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:17:15,764] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:17:15,822] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:17:15,885] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:17:15,920] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:17:16,405] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:17:16,405] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:17:16,406] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:17:16,407] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:17:16,519] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:17:16,521] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:17:16,523] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:17:16,756] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:18:43,115] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:18:43,248] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:18:43,315] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:18:43,381] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:18:43,448] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:18:43,498] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:18:43,987] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:18:43,991] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:18:43,992] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:18:43,994] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:18:44,101] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:18:44,111] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:18:44,115] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:18:44,117] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:19:22,730] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:19:23,169] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:19:23,381] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:19:23,428] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:19:23,465] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:19:23,500] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:19:23,969] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:19:23,974] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:19:23,977] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:19:23,979] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:19:24,081] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:19:24,084] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:19:24,104] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:19:24,111] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:21:08,551] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:21:09,526] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:21:09,590] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:21:09,653] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:21:09,718] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:21:09,756] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:21:10,249] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:21:10,249] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:21:10,249] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:21:10,250] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:21:10,353] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:21:10,370] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:21:10,371] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:21:10,374] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:25:07,423] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:25:07,861] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:25:07,922] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:25:07,986] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:25:08,039] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:25:08,075] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:25:08,566] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:25:08,566] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:25:08,566] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:25:08,572] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:25:08,692] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:25:08,842] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:25:08,847] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:25:09,151] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:02,250] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:02,790] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:02,859] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:27:02,935] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:27:03,011] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:27:03,068] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:27:03,551] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:03,553] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:03,554] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:03,554] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:03,663] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:03,665] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:03,665] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:03,666] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:32,639] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:32,763] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:32,828] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:27:32,882] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:27:32,940] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:27:32,991] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:27:33,474] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:33,474] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:33,474] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:33,481] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:27:33,575] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:33,581] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:33,615] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:27:33,836] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:33:03,392] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:33:03,925] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:33:03,992] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:33:04,070] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:33:04,142] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:33:04,204] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:33:04,681] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:33:04,690] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:33:04,691] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:33:04,692] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:33:04,797] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:33:04,798] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:33:04,805] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:33:04,811] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:36:27,997] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:36:28,527] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:36:28,612] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:36:28,680] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:36:28,759] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:36:28,810] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:36:29,304] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:36:29,305] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:36:29,306] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:36:29,310] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:36:29,422] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:36:29,425] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:36:29,431] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:36:29,444] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:21,825] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:22,264] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:22,325] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:43:22,398] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:43:22,457] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:43:22,502] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:43:22,977] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:22,977] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:22,981] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:22,982] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:23,080] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:23,099] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:23,104] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:23,113] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:24,092] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:24,102] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:24,103] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:24,106] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:24,214] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:24,214] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:24,223] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:24,262] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:25,262] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:25,264] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:25,264] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:25,265] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:25,373] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:25,378] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:25,378] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:25,391] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:26,374] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:26,374] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:26,375] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:26,377] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:26,475] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:26,479] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:26,497] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:26,502] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:27,489] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:27,499] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:27,499] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:27,500] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:27,623] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:27,638] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:27,639] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:27,645] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:28,665] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:28,671] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:28,672] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:28,674] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:28,780] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:28,782] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:28,798] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:28,958] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:29,942] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:29,946] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:29,946] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:29,946] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:30,060] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:30,069] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:30,070] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:30,077] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:31,081] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:31,083] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:31,084] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:31,084] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:31,197] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:31,198] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:31,201] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:31,221] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:32,195] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:32,210] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:32,210] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:32,210] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:32,319] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:32,320] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:32,334] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:32,341] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:33,324] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:33,338] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:33,338] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:33,341] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:33,453] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:33,454] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:33,460] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:33,475] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:34,478] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:34,491] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:34,493] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:34,495] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:34,581] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:34,597] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:34,602] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:34,616] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:35,628] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:35,629] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:35,629] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:35,631] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:35,739] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:35,746] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:35,748] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:35,749] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:36,754] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:36,755] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:36,756] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:36,757] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:36,862] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:36,886] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:36,887] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:36,892] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:37,903] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:37,903] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:37,904] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:37,904] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:38,024] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:38,026] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:38,036] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:38,046] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:39,060] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:39,060] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:39,061] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:39,062] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:39,165] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:39,170] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:39,183] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:39,185] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:40,168] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:40,169] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:40,175] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:40,178] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:40,276] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:40,284] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:40,289] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:40,314] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:41,308] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:41,322] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:41,322] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:41,324] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:41,436] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:41,443] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:41,445] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:41,446] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:42,457] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:42,459] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:42,459] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:42,465] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:42,566] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:42,566] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:42,567] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:42,572] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:43,550] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:43,551] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:43,551] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:43,557] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:43,657] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:43,658] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:43,668] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:43,671] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:44,655] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:44,658] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:44,658] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:44,662] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:44,758] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:44,763] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:44,777] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:44,787] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:45,826] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:45,827] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:45,827] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:45,829] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:45,940] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:45,941] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:45,947] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:45,953] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:46,931] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:46,939] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:46,940] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:46,942] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:47,044] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:47,055] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:47,056] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:47,056] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:48,055] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:48,062] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:48,064] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:48,070] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:48,172] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:48,186] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:48,189] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:48,199] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:49,191] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:49,196] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:49,196] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:49,201] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:49,311] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:49,315] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:49,316] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:49,318] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:50,293] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:50,293] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:50,299] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:50,305] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:50,397] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:50,398] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:50,399] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:50,426] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:51,405] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:51,405] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:51,405] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:51,411] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:51,512] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:51,513] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:51,515] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:51,520] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:52,505] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:52,508] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:52,517] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:52,521] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:52,627] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:52,628] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:52,629] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:52,631] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:53,608] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:53,608] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:53,614] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:53,619] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:53,709] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:53,712] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:53,730] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:53,739] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:54,743] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:54,744] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:54,744] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:54,747] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:54,853] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:54,865] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:54,881] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:54,891] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:55,876] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:55,881] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:55,882] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:55,885] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:55,985] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:56,000] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:56,001] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:56,002] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:56,985] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:56,985] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:56,992] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:56,998] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:57,092] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:57,103] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:57,108] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:57,123] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:58,107] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:58,113] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:58,113] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:58,122] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:58,213] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:58,224] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:58,228] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:58,249] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:59,311] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:59,312] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:59,314] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:59,321] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:43:59,410] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:59,419] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:59,455] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:43:59,457] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:00,445] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:00,452] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:00,455] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:00,455] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:00,557] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:00,558] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:00,558] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:00,566] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:01,534] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:01,542] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:01,544] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:01,548] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:01,648] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:01,656] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:01,661] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:01,668] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:02,647] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:02,647] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:02,647] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:02,648] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:02,753] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:02,757] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:02,757] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:02,764] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:09,156] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:09,272] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:09,316] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:44:09,360] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:44:09,396] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:44:09,438] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:44:09,906] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:09,906] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:09,914] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:09,915] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:10,025] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:10,030] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:10,034] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:10,046] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:11,043] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:11,043] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:11,043] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:11,044] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:11,153] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:11,156] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:11,162] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:11,168] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:12,177] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:12,180] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:12,180] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:12,189] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:12,281] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:12,284] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:12,297] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:12,312] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:13,292] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:13,298] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:13,298] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:13,298] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:13,408] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:13,411] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:13,415] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:13,424] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:34,118] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:34,243] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:34,304] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:44:34,357] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:44:34,401] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:44:34,446] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:44:34,922] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:34,922] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:34,933] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:34,944] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:44:35,034] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:35,043] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:35,048] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:44:35,049] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:48:26,208] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:48:26,726] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:48:26,801] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:48:26,864] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:48:26,950] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:48:26,993] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:48:27,472] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:48:27,478] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:48:27,480] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:48:27,486] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:48:27,584] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:48:27,600] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:48:27,617] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:48:27,844] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:49:24,787] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:49:24,936] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:49:24,992] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:49:25,061] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:49:25,145] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:49:25,209] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:49:25,695] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:49:25,695] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:49:25,696] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:49:25,703] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:49:25,805] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:49:25,805] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:49:25,814] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:49:25,830] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:53:08,445] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:53:08,902] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:53:08,958] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:53:09,027] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:53:09,097] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:53:09,149] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:53:09,622] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:53:09,623] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:53:09,627] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:53:09,628] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:53:09,734] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:53:09,742] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:53:09,746] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:53:09,764] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:55:30,836] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:55:31,269] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:55:31,326] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:55:31,381] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:55:31,435] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:55:31,484] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:55:31,962] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:55:31,963] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:55:31,967] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:55:31,969] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:55:32,064] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:55:32,078] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:55:32,080] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:55:32,100] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:11,109] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:11,478] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:11,539] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:56:11,601] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:56:11,670] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:56:11,707] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:56:12,189] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:12,189] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:12,190] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:12,196] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:12,291] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:12,296] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:12,308] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:12,313] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:22,871] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:22,976] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:23,022] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:56:23,064] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:56:23,141] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:56:23,179] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:56:23,655] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:23,661] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:23,661] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:23,670] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:56:23,759] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:23,764] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:23,772] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:56:23,791] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:57:52,628] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:57:53,050] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:57:53,107] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 22:57:53,163] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 22:57:53,227] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 22:57:53,268] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 22:57:53,756] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:57:53,757] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:57:53,758] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:57:53,765] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 22:57:53,866] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:57:53,868] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:57:53,870] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 22:57:53,881] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:48,411] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:48,871] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:48,937] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:06:48,996] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:06:49,049] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:06:49,097] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:06:49,591] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:49,593] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:49,593] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:49,593] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:49,711] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:49,712] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:49,712] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:49,712] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:50,705] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:50,705] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:50,705] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:50,705] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:50,817] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:50,823] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:50,824] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:50,824] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:51,823] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:51,823] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:51,823] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:51,829] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:06:51,946] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:51,947] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:51,951] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:06:52,101] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:03,200] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:03,643] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:03,711] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:09:03,798] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:09:03,857] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:09:03,916] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:09:04,391] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:04,397] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:04,397] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:04,403] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:04,509] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:04,520] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:04,522] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:04,664] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:05,650] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:05,651] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:05,652] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:05,654] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:05,764] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:05,764] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:05,766] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:05,779] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:06,775] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:06,782] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:06,784] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:06,784] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:06,900] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:06,905] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:06,907] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:06,908] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:07,896] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:07,899] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:07,905] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:07,907] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:08,003] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:08,015] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:08,026] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:08,032] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:09,036] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:09,044] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:09,044] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:09,047] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:09:09,153] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:09,160] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:09,163] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:09:09,167] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:19:25,796] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:19:26,236] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:19:26,295] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:19:26,361] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:19:26,422] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:19:26,474] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:19:26,958] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:19:26,959] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:19:26,959] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:19:26,964] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:19:27,060] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:19:27,074] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:19:27,076] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:19:27,082] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:20:36,976] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:20:37,120] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:20:37,183] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:20:37,245] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:20:37,299] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:20:37,347] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:20:37,824] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:20:37,830] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:20:37,833] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:20:37,839] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:20:37,936] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:20:37,948] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:20:37,951] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:20:37,962] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:56:22,280] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:56:22,717] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:56:22,764] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:56:22,811] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:56:22,859] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:56:22,906] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:56:23,378] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:56:23,378] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:56:23,381] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:56:23,381] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:56:23,503] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:56:23,506] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:56:23,509] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:56:23,522] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:57:35,218] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:57:35,518] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:57:35,567] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:57:35,625] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:57:35,673] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:57:35,717] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:57:36,196] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:57:36,196] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:57:36,197] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:57:36,197] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:57:36,317] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:57:36,318] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:57:36,320] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:57:36,322] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:58:33,118] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:58:33,565] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:58:33,639] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-02 23:58:33,692] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-02 23:58:33,743] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-02 23:58:33,805] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-02 23:58:34,311] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:58:34,311] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:58:34,311] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:58:34,312] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-02 23:58:34,428] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:58:34,429] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:58:34,432] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-02 23:58:34,434] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:48,628] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:49,075] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:49,136] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:04:49,196] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:04:49,246] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:04:49,293] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:04:49,772] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:49,773] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:49,781] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:49,782] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:49,872] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:49,898] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:49,903] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:49,923] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:58,252] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:58,363] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:58,400] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:04:58,437] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:04:58,473] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:04:58,522] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:04:59,012] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:59,012] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:59,014] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:59,016] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:04:59,134] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:59,135] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:59,136] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:04:59,139] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:11:49,657] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:11:50,149] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:11:50,209] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:11:50,265] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:11:50,311] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:11:50,345] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:11:50,819] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:11:50,824] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:11:50,824] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:11:50,825] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:11:50,942] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:11:50,952] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:11:50,958] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:11:52,173] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:14:54,233] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:14:55,184] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:14:55,245] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:14:55,305] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:14:55,341] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:14:55,388] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:21:14,574] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:21:15,021] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:21:15,078] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:21:15,141] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:21:15,191] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:21:15,232] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:24:42,904] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:24:43,335] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:24:43,399] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:24:43,461] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:24:43,511] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:24:43,559] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:25:26,139] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:25:26,266] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:25:26,319] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:25:26,376] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:25:26,422] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:25:26,454] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:25:52,501] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:25:52,619] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:25:52,667] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:25:52,716] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:25:52,779] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:25:52,831] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:27:16,328] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:27:16,759] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:27:16,828] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:27:16,896] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:27:16,938] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:27:16,986] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:34:38,143] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:34:38,868] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:34:38,933] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:34:38,993] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:34:39,048] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:34:39,099] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 00:43:41,247] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 00:43:41,768] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 00:43:41,829] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 00:43:41,889] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 00:43:41,941] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 00:43:41,989] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:05:16,620] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:05:17,133] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:05:17,200] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:05:17,272] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:05:17,326] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:05:17,397] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:07:44,654] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:07:45,151] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:07:45,201] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:07:45,262] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:07:45,297] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:07:45,329] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:12:03,142] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:12:03,641] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:12:03,698] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:12:03,760] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:12:03,807] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:12:03,851] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:16:58,277] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:16:58,792] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:16:58,852] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:16:58,909] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:16:58,958] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:16:58,995] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:22:58,135] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:22:58,905] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:22:58,978] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:22:59,042] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:22:59,087] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:22:59,134] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 01:53:43,049] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 01:53:43,536] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 01:53:43,590] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 01:53:43,644] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 01:53:43,706] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 01:53:43,761] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
+[2025-04-03 02:16:32,031] INFO [uvicorn] logging_config.py:77 - Futuristic logging is now active!
+[2025-04-03 02:16:32,494] INFO [uvicorn] logging_config.py:80 - Setiap log akan ditulis ke Supabase dengan ID otomatis dan services dari nama logger!
+[2025-04-03 02:16:32,557] INFO [uvicorn] run.py:10 - Aplikasi dimulai!
+[2025-04-03 02:16:32,615] WARNING [uvicorn] run.py:12 - Ini adalah pesan warning.
+[2025-04-03 02:16:32,663] ERROR [uvicorn] run.py:13 - Ini adalah pesan error.
+[2025-04-03 02:16:32,720] CRITICAL [uvicorn] run.py:14 - Ini adalah pesan critical.
